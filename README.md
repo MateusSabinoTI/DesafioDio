@@ -7,15 +7,18 @@ Este estudo utiliza Inteligência Artificial e o NotebookLM como ferramentas de 
 
 🎯 Objetivos:
 
-- Compreender a evolução do hardware até os dias atuais;
-- Identificar os principais avanços tecnológicos;
-- Estudar o impacto do hardware moderno no desempenho computacional;
-- Utilizar IA como ferramenta de aprendizado ativo e organização de conhecimento.
+  - Compreender a evolução do hardware até os dias atuais;
+  - Identificar os principais avanços tecnológicos;
+  - Estudar o impacto do hardware moderno no desempenho computacional;
+  - Utilizar IA como ferramenta de aprendizado ativo e organização de conhecimento.
 
 📚 Fontes Utilizadas:
 
-💬 Prompts Utilizados:
+  -https://www.mundodanet.info/hardware/
 
+💬 Prompts Utilizados:
+  -"Crie uma linha do tempo da evolução dos processadores, dando algumas informações sobre eles (nome, litografia, e arquitetura)"
+  
 📝 Resumos:
 
 📖 Glossário:
