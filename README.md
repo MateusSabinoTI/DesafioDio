@@ -14,21 +14,22 @@
 
 📚 Fontes Utilizadas:
 
-  - https://www.mundodanet.info/hardware/
-  - https://informatecdigital.com/pt/Intel-vs-AMD%3A-A-Hist%C3%B3ria-Completa-de-uma-Rivalidade-Lend%C3%A1ria/
-  - https://www.guiahardware.es/pt/Mem%C3%B3ria-RAM:-uma-revis%C3%A3o-de-sua-hist%C3%B3ria/
-  - https://www.tecmundo.com.br/historia/2157-a-historia-dos-processadores.htm
-  - https://www.techtudo.com.br/noticias/2022/08/o-que-e-ddr-saiba-tudo-sobre-o-padrao-de-memoria-ram.ghtml
-  - https://www.computerhistory.org/storageengine/timeline/
   - https://canaltech.com.br/hardware/como-surgiram-as-placas-de-video/
-  - https://www.nationalacademies.org/read/27445/chapter/3
+  - https://www.computerhistory.org/storageengine/timeline/
   - https://drive.google.com/file/d/1lckoNKPvrGLRezERiytO3DmwmpA890Uc/view?usp=sharing
-  - https://www.youtube.com/watch?v=s-KE1VPp5Vk
+  - https://www.guiahardware.es/pt/Mem%C3%B3ria-RAM:-uma-revis%C3%A3o-de-sua-hist%C3%B3ria/
+  - https://informatecdigital.com/pt/Intel-vs-AMD%3A-A-Hist%C3%B3ria-Completa-de-uma-Rivalidade-Lend%C3%A1ria/
+  - https://www.mundodanet.info/hardware/
+  - https://www.nationalacademies.org/read/27445/chapter/3
+  - https://www.techtudo.com.br/noticias/2022/08/o-que-e-ddr-saiba-tudo-sobre-o-padrao-de-memoria-ram.ghtml
+  - https://www.tecmundo.com.br/historia/2157-a-historia-dos-processadores.htm
   - https://www.youtube.com/watch?v=FrNmUpG9qCA
   - https://www.youtube.com/watch?v=iNxVBK6MVWU
-
+  - https://www.youtube.com/watch?v=s-KE1VPp5Vk
+    
 💬 Prompts Utilizados:
   1- "Crie uma linha do tempo da evolução dos processadores, dando algumas informações sobre eles (nome, litografia, e arquitetura)"
+  
   Resposta:
   A evolução dos processadores é marcada por saltos significativos em capacidade de processamento, miniaturização e mudanças de arquitetura. Abaixo, apresenta-se uma linha do tempo com base nos marcos históricos citados nas fontes:
 
@@ -65,6 +66,7 @@
   ---
   
   2- "Resuma o desenvolvimento da memoria ram e o que significa o "ddr""
+  
   Resposta: O desenvolvimento da memória RAM é uma evolução que acompanha a necessidade de maior velocidade para processadores e a substituição de tecnologias lentas de armazenamento secundário. 
 
   ### **História e Evolução da RAM**
@@ -88,6 +90,7 @@
   ---
 
   3- "Gere um resumo breve sobre a evolução dos dispositivos de armazenamento, dividido em tópicos curtos e organizados cronologicamente, destacando apenas as principais tecnologias e suas funções."
+  
   Resposta:
   A evolução dos dispositivos de armazenamento acompanhou a necessidade de maior velocidade, capacidade e miniaturização, passando de sistemas mecânicos para eletrônicos de alta performance.
 
@@ -106,6 +109,7 @@
   ---
   
   4- "Explique de maneira breve o que motivou e como surgiram as placas de vídeo, incluindo um curto comparativo entre sua função e capacidade inicial e seu uso nos dias de hoje. Seja claro e objetivo, não precisa ser muito técnico."
+  
   Resposta: 
   As placas de vídeo surgiram da necessidade de **aliviar a Unidade Central de Processamento (CPU)**, que originalmente realizava todas as tarefas do computador, desde a interpretação de dados até a geração do sinal de vídeo. À medida que os programas e jogos se tornavam visualmente mais complexos, o ciclo de atualização das CPUs não conseguia acompanhar a demanda por memória de vídeo (VRAM) e processamento gráfico, motivando a criação de hardware especializado.
   
@@ -126,6 +130,7 @@
   ---
 
  5- "Intel e AMD são duas das maiores maiores empresas no mercado de computadores. Elabore um breve retrospecto dessa competitividade e como isso influencia no mercado, tanto para o desenvolvimento quanto para o consumidor final."
+ 
  Resposta:
    A competitividade entre Intel e AMD é um dos pilares da indústria de tecnologia, iniciada por uma origem comum na **Fairchild Semiconductor**, onde os fundadores de ambas as empresas trabalharam antes de seguirem caminhos distintos. Esse duelo moldou a evolução dos computadores pessoais desde a década de 1970.
   
@@ -158,6 +163,27 @@
   - Para obter melhores resultados, dei feedback às respostas geradas e fui apontando melhorias, dando um norte para a próxima resposta.
     
 📝 Resumos:
+
+  O avanço tecnológico no hardware transformou máquinas gigantescas e limitadas em dispositivos potentes e compactos que moldaram a sociedade moderna. Abaixo, um resumo prático sobre os assuntos abordados e os impactos de sua evolução:
+  
+  ### **1. Processadores (CPU)**
+  *   **Evolução:** Evoluíram do primeiro microprocessador comercial de 4 bits (Intel 4004 em 1971) para as atuais arquiteturas multinúcleo e híbridas, que combinam núcleos de performance e eficiência.
+  *   **Impactos:** A miniaturização e a **Lei de Moore**, que previa que o número de transistores em um processador dobraria a cada dois anos, permitiram que o poder de processamento dobrasse periodicamente, tornando a computação de alto desempenho acessível e integrada em quase todos os aspectos da vida cotidiana.
+  
+  ### **2. Memória RAM**
+  *   **Evolução:** Substituiu os antigos núcleos de ferrite por semicondutores e, posteriormente, pelo padrão **DDR (Double Data Rate)**, que hoje está em sua quinta geração (DDR5).
+  *   **Impactos:** O aumento drástico na largura de banda e a sincronização com o processador reduziram os gargalos de comunicação, permitindo a execução de softwares complexos e multitarefas fluidas com menor consumo de energia.
+  
+  ### **3. Armazenamento**
+  *   **Evolução:** Partiu de meios mecânicos como cartões perfurados e fitas magnéticas para os discos rígidos (HDD) e, chegando nos **SSDs** ultrarrápidos e compactos.
+  *   **Impactos:** A transição para o estado sólido (SSD) eliminou partes móveis, resultando em maior durabilidade, acesso quase instantâneo aos dados e a viabilização do armazenamento massivo em nuvem.
+  
+  ### **4. Placa de Vídeo (GPU)**
+  *   **Evolução:** Surgiram como chips simples para aliviar a CPU da tarefa de gerar imagens, evoluindo para aceleradores 3D dedicados e GPUs modernas que processam **Ray Tracing** e **Inteligência Artificial**.
+  *   **Impactos:** Deixaram de ser meros "exibidores de imagem" para se tornarem processadores paralelos massivos, essenciais não apenas para gráficos realistas em jogos, mas para aceleração de IA e computação científica.
+  
+  ### **Impactos Gerais**
+  O avanço conjunto dessas tecnologias permitiu a **automação industrial**, avanços na **pesquisa científica** (como simulações complexas), a criação da **Internet** e, mais recentemente, o avanço rápido da **Inteligência Artificial**. O hardware moderno prioriza agora a eficiência energética e o processamento inteligente, preparando o terreno para futuras revoluções.
 
 📖 Glossário:
 
