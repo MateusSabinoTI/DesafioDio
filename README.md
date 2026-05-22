@@ -1,18 +1,20 @@
 # Evolução do Hardware
 
-📌 Sobre o pojeto:
+## 📌 Sobre o pojeto:
 
   Projeto prático focado em aprendizado com IA, dedicado ao estudo da evolução do hardware até os dias de hoje, analisando os avanços tecnológicos em processadores, memórias RAM, armazenamento e placas de vídeo.
   Este estudo utiliza Inteligência Artificial e o NotebookLM como ferramentas de apoio para pesquisa, organização de conteúdo e criação de resumos temáticos.
-
-🎯 Objetivos:
+  ---
+  
+## 🎯 Objetivos:
 
   - Compreender a evolução do hardware até os dias atuais;
   - Identificar os principais avanços tecnológicos;
   - Estudar o impacto do hardware moderno no desempenho computacional;
   - Utilizar IA como ferramenta de aprendizado ativo e organização de conhecimento.
-
-📚 Fontes Utilizadas:
+  ---
+  
+## 📚 Fontes Utilizadas:
 
   - https://canaltech.com.br/hardware/como-surgiram-as-placas-de-video/
   - https://www.computerhistory.org/storageengine/timeline/
@@ -26,9 +28,10 @@
   - https://www.youtube.com/watch?v=FrNmUpG9qCA
   - https://www.youtube.com/watch?v=iNxVBK6MVWU
   - https://www.youtube.com/watch?v=s-KE1VPp5Vk
-    
-💬 Prompts Utilizados:
-  1- "Crie uma linha do tempo da evolução dos processadores, dando algumas informações sobre eles (nome, litografia, e arquitetura)"
+  ---
+  
+## 💬 Prompts Utilizados:
+  ### 1- "Crie uma linha do tempo da evolução dos processadores, dando algumas informações sobre eles (nome, litografia, e arquitetura)"
   
   Resposta:
   A evolução dos processadores é marcada por saltos significativos em capacidade de processamento, miniaturização e mudanças de arquitetura. Abaixo, apresenta-se uma linha do tempo com base nos marcos históricos citados nas fontes:
