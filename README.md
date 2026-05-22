@@ -68,7 +68,7 @@
 
   ---
   
-  2- "Resuma o desenvolvimento da memoria ram e o que significa o "ddr""
+  ### 2- "Resuma o desenvolvimento da memoria ram e o que significa o "ddr""
   
   Resposta: O desenvolvimento da memória RAM é uma evolução que acompanha a necessidade de maior velocidade para processadores e a substituição de tecnologias lentas de armazenamento secundário. 
 
@@ -92,7 +92,7 @@
 
   ---
 
-  3- "Gere um resumo breve sobre a evolução dos dispositivos de armazenamento, dividido em tópicos curtos e organizados cronologicamente, destacando apenas as principais tecnologias e suas funções."
+  ### 3- "Gere um resumo breve sobre a evolução dos dispositivos de armazenamento, dividido em tópicos curtos e organizados cronologicamente, destacando apenas as principais tecnologias e suas funções."
   
   Resposta:
   A evolução dos dispositivos de armazenamento acompanhou a necessidade de maior velocidade, capacidade e miniaturização, passando de sistemas mecânicos para eletrônicos de alta performance.
@@ -111,7 +111,7 @@
  
   ---
   
-  4- "Explique de maneira breve o que motivou e como surgiram as placas de vídeo, incluindo um curto comparativo entre sua função e capacidade inicial e seu uso nos dias de hoje. Seja claro e objetivo, não precisa ser muito técnico."
+  ### 4- "Explique de maneira breve o que motivou e como surgiram as placas de vídeo, incluindo um curto comparativo entre sua função e capacidade inicial e seu uso nos dias de hoje. Seja claro e objetivo, não precisa ser muito técnico."
   
   Resposta: 
   As placas de vídeo surgiram da necessidade de **aliviar a Unidade Central de Processamento (CPU)**, que originalmente realizava todas as tarefas do computador, desde a interpretação de dados até a geração do sinal de vídeo. À medida que os programas e jogos se tornavam visualmente mais complexos, o ciclo de atualização das CPUs não conseguia acompanhar a demanda por memória de vídeo (VRAM) e processamento gráfico, motivando a criação de hardware especializado.
@@ -132,7 +132,7 @@
 
   ---
 
- 5- "Intel e AMD são duas das maiores maiores empresas no mercado de computadores. Elabore um breve retrospecto dessa competitividade e como isso influencia no mercado, tanto para o desenvolvimento quanto para o consumidor final."
+ ### 5- "Intel e AMD são duas das maiores maiores empresas no mercado de computadores. Elabore um breve retrospecto dessa competitividade e como isso influencia no mercado, tanto para o desenvolvimento quanto para o consumidor final."
  
  Resposta:
    A competitividade entre Intel e AMD é um dos pilares da indústria de tecnologia, iniciada por uma origem comum na **Fairchild Semiconductor**, onde os fundadores de ambas as empresas trabalharam antes de seguirem caminhos distintos. Esse duelo moldou a evolução dos computadores pessoais desde a década de 1970.
@@ -159,35 +159,35 @@
  
   ---
   
-⚠️ Desafios Encontrados:
+## ⚠️ Desafios Encontrados:
 
   - Inicialmente, alguns prompts retornaram informações excessivamente detalhadas e pouco objetivas. Foi necessário refinar as instruções para obter respostas mais curtas, organizadas e adequadas ao formato do projeto.
   - Algunas respostas eram muito amplas e técncias, exigindo mais detalhamento e especificação no prompt para o resultado esperado.
   - Para obter melhores resultados, dei feedback às respostas geradas e fui apontando melhorias, dando um norte para a próxima resposta.
     
-📝 Resumos:
+## 📝 Resumos:
 
-  O avanço tecnológico no hardware transformou máquinas gigantescas e limitadas em dispositivos potentes e compactos que moldaram a sociedade moderna. Abaixo, um resumo prático sobre os assuntos abordados e os impactos de sua evolução:
+  ### O avanço tecnológico no hardware transformou máquinas gigantescas e limitadas em dispositivos potentes e compactos que moldaram a sociedade moderna. Abaixo, um resumo prático sobre os assuntos abordados e os impactos de sua evolução:
   
-  ### **1. Processadores (CPU)**
+  #### **1. Processadores (CPU)**
   *   **Evolução:** Evoluíram do primeiro microprocessador comercial de 4 bits (Intel 4004 em 1971) para as atuais arquiteturas multinúcleo e híbridas, que combinam núcleos de performance e eficiência.
   *   **Impactos:** A miniaturização e a **Lei de Moore**, que previa que o número de transistores em um processador dobraria a cada dois anos, permitiram que o poder de processamento dobrasse periodicamente, tornando a computação de alto desempenho acessível e integrada em quase todos os aspectos da vida cotidiana.
   
-  ### **2. Memória RAM**
+  #### **2. Memória RAM**
   *   **Evolução:** Substituiu os antigos núcleos de ferrite por semicondutores e, posteriormente, pelo padrão **DDR (Double Data Rate)**, que hoje está em sua quinta geração (DDR5).
   *   **Impactos:** O aumento drástico na largura de banda e a sincronização com o processador reduziram os gargalos de comunicação, permitindo a execução de softwares complexos e multitarefas fluidas com menor consumo de energia.
   
-  ### **3. Armazenamento**
+  #### **3. Armazenamento**
   *   **Evolução:** Partiu de meios mecânicos como cartões perfurados e fitas magnéticas para os discos rígidos (HDD) e, chegando nos **SSDs** ultrarrápidos e compactos.
   *   **Impactos:** A transição para o estado sólido (SSD) eliminou partes móveis, resultando em maior durabilidade, acesso quase instantâneo aos dados e a viabilização do armazenamento massivo em nuvem.
   
-  ### **4. Placa de Vídeo (GPU)**
+  #### **4. Placa de Vídeo (GPU)**
   *   **Evolução:** Surgiram como chips simples para aliviar a CPU da tarefa de gerar imagens, evoluindo para aceleradores 3D dedicados e GPUs modernas que processam **Ray Tracing** e **Inteligência Artificial**.
   *   **Impactos:** Deixaram de ser meros "exibidores de imagem" para se tornarem processadores paralelos massivos, essenciais não apenas para gráficos realistas em jogos, mas para aceleração de IA e computação científica.
   
-  ### **Impactos Gerais**
+  #### **Impactos Gerais**
   O avanço conjunto dessas tecnologias permitiu a **automação industrial**, avanços na **pesquisa científica** (como simulações complexas), a criação da **Internet** e, mais recentemente, o avanço rápido da **Inteligência Artificial**. O hardware moderno prioriza agora a eficiência energética e o processamento inteligente, preparando o terreno para futuras revoluções.
 
-📖 Glossário:
+## 📖 Glossário:
 
-✅ Conclusão:
+## ✅ Conclusão:
